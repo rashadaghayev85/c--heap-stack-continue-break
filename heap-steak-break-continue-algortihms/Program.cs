@@ -1,0 +1,193 @@
+﻿//1. n - ededinin faktorialini hesablayin.
+//int n = 0;
+//int factorial = 1;
+//if (n == 0)
+//{
+//    factorial = 1;
+//}
+//else
+//{
+//    for (int i = 0; i <= n; i++)// int i=1 den baslamali idi ama continue istifade etmek ucun 0dan baslatdim
+//    {
+//        if (i == 0) 
+//        {
+//            continue; 
+//        }
+//        else 
+//        factorial *= i;
+//    }
+
+//}
+//Console.WriteLine(factorial);
+
+
+//2. Verilmis arrayin icerisinde cut ededlerin ceminin kvadratini hesablayin.
+//int[] arr = { 1, 2, 3, 4, 5, 6 };
+//int sum = 0;
+////double result = 0;
+
+//for (int i = 0; i < arr.Length; i++)    
+//{
+//    if (arr[i] % 2 == 0)
+//    {
+//        sum += arr[i];
+//    }
+//}
+//sum *= sum; // result=Math.Pow(sum, 2);
+//Console.WriteLine(sum);// Console.WriteLine(result); olardi  eger math powdan istifade etse idik
+
+
+/*3.n ededi gelir. n - ededinin 2 - ni hansisa quvvete yukseltdikde alinan edede beraber olub-olmadigini tapin. Meselen : n ededi 4,8,16 ve s. gelirse yazilsin ki, 2-nin quvettidir. Eks halda quvveti deil yazilsin.*/
+
+//int n = 321;
+//int result = 1;
+//for (int i = 2; i <=n; i *= 2) 
+//{
+//    result = n % i;
+
+//}    
+
+//if (result == 0)
+//{
+//    Console.WriteLine("2nin quvvetidir");
+//}
+//else
+//{
+//    Console.WriteLine("2nin quvveti deyil");
+//}
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//Class tasks
+
+//int a = 5;
+//int b = a;
+//b = 100;      //b=100 a=5
+//Console.WriteLine(a);
+//Console.WriteLine(b);
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//int[] arr1 = { 1, 2, 3, 4, 5 };
+//int[] arr2 = { 2, 323, 223, 1232, 13 };
+//arr2 = arr1;
+//arr2[0]= 200;/////// arr1[0]=200 arr2[0]=200
+//Console.WriteLine(arr1[0]);
+//Console.WriteLine(arr2[0]);    
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//int[] arr1 = { 1, 2, 3, 4, 5 };
+//int[] arr2 = { 2, 323, 223, 1232, 13 };
+//arr2[0]= arr1[0]+5;
+//arr2[0] = 200;/////// arr1[0]=1 arr2[0]=200
+//Console.WriteLine(arr1[0]);
+//Console.WriteLine(arr2[0]);
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+//int[] arr1 = { 1, 2, 3, 4, 5 };
+//int[] arr2 = { 2, 323, 223, 1232, 13 };
+//arr1[0] = 100;
+//arr2 = arr1 ;
+//arr2[0] = 200;/////// 
+//Console.WriteLine(arr1[0]);
+//Console.WriteLine(arr2[0]);
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//int[] arr1 = { 1, 2, 3, 4, 5 };
+//arr1[0] = 100;
+//int[] arr2 = arr1;
+
+
+//arr2[0] = 200;/////// 
+
+
+//arr2[0]= arr2[0] + arr1[0];//arr1[0]=400    arr2[0]=400
+//Console.WriteLine(arr1[0]);
+//Console.WriteLine(arr2[0]);
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+//int[] arr1 = { 1, 2, 3, 4, 5 };
+//arr1[0] = 100;
+//int[] arr2 = arr1;
+
+
+//arr2[0] = 200;/////// 
+
+
+//arr2[0] = arr2[0] + arr1[0];//arr1[0]=3    arr2[0]=3 
+
+//arr1[0] = 3;
+//Console.WriteLine(arr1[0]);
+//Console.WriteLine(arr2[0]);
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///
+//string a = "name";
+//string b = a;
+// b="salam";//a="name"  b="salam"
+
+//Console.WriteLine(a);   
+//Console.WriteLine(b);
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//int[] arr = {1,2,3,4,5 };
+//for (int i = 0; i < arr.Length; i++)
+//{
+//    if (arr[i] == 2)
+//    {
+//        continue;
+//    }
+//    else if (arr[i] == 4)
+//    {
+//        break;
+//    }
+//    Console.WriteLine(arr[i]);
+//}
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

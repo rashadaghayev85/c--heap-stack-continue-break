@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "heap-steak-break-continue-algortihms/1.0.0": {
+        "runtime": {
+          "heap-steak-break-continue-algortihms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "heap-steak-break-continue-algortihms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

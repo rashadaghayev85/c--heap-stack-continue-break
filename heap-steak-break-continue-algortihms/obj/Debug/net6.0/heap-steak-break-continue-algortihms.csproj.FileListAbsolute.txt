@@ -1,0 +1,14 @@
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\bin\Debug\net6.0\heap-steak-break-continue-algortihms.exe
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\bin\Debug\net6.0\heap-steak-break-continue-algortihms.deps.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\bin\Debug\net6.0\heap-steak-break-continue-algortihms.runtimeconfig.json
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\bin\Debug\net6.0\heap-steak-break-continue-algortihms.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\bin\Debug\net6.0\heap-steak-break-continue-algortihms.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.AssemblyInfoInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.AssemblyInfo.cs
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\refint\heap-steak-break-continue-algortihms.dll
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.pdb
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\heap-steak-break-continue-algortihms.genruntimeconfig.cache
+C:\Users\Rashad\OneDrive\Desktop\PB101\code\heap-steak-break-continue-algortihms\heap-steak-break-continue-algortihms\obj\Debug\net6.0\ref\heap-steak-break-continue-algortihms.dll
